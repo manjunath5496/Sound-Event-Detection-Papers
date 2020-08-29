@@ -19,12 +19,24 @@
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Sound-Event-Detection-Papers/blob/master/sed(10).pdf" style="text-decoration:none;">Language Modelling for Sound Event Detection with Teacher Forcing and Scheduled Sampling</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Sound-Event-Detection-Papers/blob/master/sed(11).pdf" style="text-decoration:none;">Quantum field theory on a cosmological, quantum space-time</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Sound-Event-Detection-Papers/blob/master/sed(11).pdf" style="text-decoration:none;">Context-dependent sound event detection</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Sound-Event-Detection-Papers/blob/master/sed(12).pdf" style="text-decoration:none;">Guided Learning Convolution System for DCASE 2019 Task 4</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Sound-Event-Detection-Papers/blob/master/sed(13).pdf" style="text-decoration:none;">Musical Instrument Playing Technique Detection Based on FCN: Using Chinese Bowed-Stringed Instrument as an Example</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Sound-Event-Detection-Papers/blob/master/sed(14).pdf" style="text-decoration:none;">PANNs: Large-Scale Pretrained Audio Neural Networks for Audio Pattern Recognition</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Sound-Event-Detection-Papers/blob/master/sed(15).pdf" style="text-decoration:none;">Sound Event Detection with Depthwise Separable and Dilated Convolutions</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Sound-Event-Detection-Papers/blob/master/sed(16).pdf" style="text-decoration:none;">A Mobile Application for Sound Event Detection</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Sound-Event-Detection-Papers/blob/master/sed(17).pdf" style="text-decoration:none;">A Neural Network Approach for Sound Event Detection in Real Life Audio</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Sound-Event-Detection-Papers/blob/master/sed(18).pdf" style="text-decoration:none;">Sound Event Detection in Multichannel Audio Using Spatial and Harmonic Features</a></li>
+
+
+
+
+
+
 
 </ul>
